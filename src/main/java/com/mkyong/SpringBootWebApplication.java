@@ -12,6 +12,7 @@ public class SpringBootWebApplication extends SpringBootServletInitializer {
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
 		return application.sources(SpringBootWebApplication.class);
 		//new checkin
+		//dfgsfgdsdfgdf
 	}
 
 	public static void main(String[] args) throws Exception {
